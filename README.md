@@ -14,4 +14,4 @@
 
 ## Data Analysis Presentation
 
-![Data_Analysis_Presentation](ss-bike-cycle-share.PNG.png)
+![Data_Analysis_Presentation](ss-bike-cycle-share.PNG)
