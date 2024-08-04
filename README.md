@@ -1,6 +1,7 @@
 # Bike-Cycle-Share
-  Bike-Cycle-Share is a bike-share company that features more than 6,000 bicycles and 700 docking stations scattered across the whole city.
-<br></br>
+Bike-Cycle-Share is a bike-share rental company that features more than 6,000+ bicycles scattered across the whole city. Bicycles are all geotracked and locked into a network of 700+ dock stationed in almost every corner of the city and can be unlocked from one station and returned to any other station in the system anytime. Bicycles can be used by two type of rider, Member (riders with paid membership of either yearly or monthly) and Casual (per use basis payment).  
+
+
 ## Analyzing the number of Bike rides and ride duration for Member and Casual type customer for the last 12 months.
 
 ![image](https://github.com/user-attachments/assets/115f141d-3c9f-47fc-8e53-e9c63f5733fa)
