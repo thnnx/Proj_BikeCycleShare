@@ -1,6 +1,6 @@
 # Proj_BikeCycleShare
 
-##Objectives
+## Objectives
 
 Identify the difference on how the Member and Casual rider use Cyclistic bikes differently
 
