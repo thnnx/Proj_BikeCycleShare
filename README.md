@@ -1,8 +1,8 @@
-# Proj_BikeCycleShare
+# Bike-Cycle-Share
 
 ## Objectives
 
-Identify the difference on how the Member and Casual rider use Cyclistic bikes differently
+<b>Identify the difference on how the Member and Casual rider use Cyclistic bikes differently</b>
 
   - How frequent Member and Casual rider use bike in a Month and Day of week
 
