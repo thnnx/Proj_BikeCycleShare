@@ -1,17 +1,6 @@
 # Bike-Cycle-Share
 Bike-Cycle-Share is a bike-share rental company that features more than 6,000+ bicycles scattered across the whole city. Bicycles are all geotracked and locked into a network of 700+ dock stationed in almost every corner of the city and can be unlocked from one station and returned to any other station in the system anytime. Bicycles can be used by two type of rider, Member (riders with paid membership of either yearly or monthly) and Casual (per use basis payment).  
 
-
-## Analyzing the number of Bike rides and ride duration for Member and Casual type customer for the last 12 months.
-
-![image](https://github.com/user-attachments/assets/115f141d-3c9f-47fc-8e53-e9c63f5733fa)
-
-![image](https://github.com/user-attachments/assets/dcb2df67-8c96-46e2-8c4e-e787426643e9)
-
-![image](https://github.com/user-attachments/assets/7f4b8a3a-1bee-41ac-be47-468e3d1751cb)
-
-![image](https://github.com/user-attachments/assets/9db3d825-cf54-450a-84f0-86addc30be9d)
-
 ## Objectives - Problem Statement
 
   <b>Identify the difference on how the Member and Casual rider use Cyclistic bikes differently</b>
@@ -20,7 +9,7 @@ Bike-Cycle-Share is a bike-share rental company that features more than 6,000+ b
 
     - Duration on how long Member and Casual rider are using the bike in a Month and Day of week.
 
-    - Results of analysis will be used to design marketing strategies to convert Casual riders into annual Members.
+<b>Results of analysis will be used to design marketing strategies to convert Casual riders into annual Members.</b>
 
 ## Metrics
 - Total Rides - sum of number of rides for the last 12 months (week / day of week)
@@ -30,7 +19,17 @@ Bike-Cycle-Share is a bike-share rental company that features more than 6,000+ b
 - Avg Ride - average number of ride per month / per day of the week
   
 - Avg Ride duration - average ride duration per month / per day of the week
+<br></br>
 
+### Analyzing the number of Bike rides and ride duration for Member and Casual type customer for the last 12 months
+
+![image](https://github.com/user-attachments/assets/115f141d-3c9f-47fc-8e53-e9c63f5733fa)
+
+![image](https://github.com/user-attachments/assets/dcb2df67-8c96-46e2-8c4e-e787426643e9)
+
+![image](https://github.com/user-attachments/assets/7f4b8a3a-1bee-41ac-be47-468e3d1751cb)
+
+![image](https://github.com/user-attachments/assets/9db3d825-cf54-450a-84f0-86addc30be9d)
 
 ## Summary of Insights
 
