@@ -6,18 +6,14 @@ Bike-Cycle-Share is a bike-share rental company that features more than 6,000+ b
   <b>Identify the difference on how the Member and Casual rider use Cyclistic bikes differently</b>
 
     - How frequent Member and Casual rider use bike in a Month and Day of week?
-
     - Duration on how long Member and Casual rider are using the bike in a Month and Day of week.
 
 <b>Results of analysis will be used to design marketing strategies to convert Casual riders into annual Members.</b>
 
 ## Metrics
 - Total Rides - sum of number of rides for the last 12 months (week / day of week)
-  
 - Total Ride Duration - sum of ride duration for the last 12 months (week / day of week)
-  
 - Avg Ride - average number of ride per month / per day of the week
-  
 - Avg Ride duration - average ride duration per month / per day of the week
 <br></br>
 
@@ -34,28 +30,18 @@ Bike-Cycle-Share is a bike-share rental company that features more than 6,000+ b
 ## Summary of Insights
 
   - Fewer bike activities during cold months both Casual and Member
-    
   - Shorter rides during cold months both Casual and Member
-    
   - Casual riders use bikes more during weekends
-    
   - Member riders mostly use bikes during weekdays
-  
   - Casual riders are using bike for leisure or other non-work activities specially weekend which is good enough for a single ride or full day passes
-  
   - Member riders might be using bike for work related and other important daily activities
-  
   - The average ride length per Member rider is much lower compared to Casual as they’re using the bike as their means of transportation for work
 
 ## Recommendations
 <b>To convert Casual riders or gradually convince them to upgrade to Membership, below are the recommendations:</b>
-
   - Start with creating promos in riding a bike during weekdays and then add new option to current Single ride and Full day pass – Whole week pass with an option of upgrade to 6 months or whole year pass (Membership) with discount.
-  
   - Create a simple report tool that can check casual riders with multiple consecutive purchase of Single ride, Full day or Whole week passes. And give them an option to Upgrade to Membership with good discount.
-  
   - Create a promo to Casual riders that if they reached a certain Miles/Length of ride, number of rides, duration of ride, etc.,  they can receive rewards or special discount to upgrade.
-
 
 ## Data Analysis Presentation
 Click this link to view full data insights - ![Data Insights](Bike-Cycle-Share_Data_Insights.pptx)
